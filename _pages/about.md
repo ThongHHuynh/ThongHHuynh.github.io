@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Thong Huynh's Portfolio"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,12 +10,15 @@ redirect_from:
 
 Hi, I'm Thong Huynh, a Mechatronics Engineer at Ontario Tech University. 
 
+I love building robots.
+
 My focus is in Robotics with ROS, CAD Designs.
 
 Check out some of my projects!!
 
-A quality check for bolts, nuts
+A quality check for bolts, nuts []
 ==========
+[OpenCV](/images/IMG_4.jpg)
 
 
 
