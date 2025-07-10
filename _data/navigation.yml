@@ -11,20 +11,22 @@ main:
   - title: "About me"
     url: /About/
 
+
   - title: "Projects"
     url: /talks/    
 
+
   - title: "Research"
     url: /Research/    
+
     
   - title: "Portfolio"
     url: /portfolio/
+
     
   - title: "CV"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
+
+
   - title: "Guide"
     url: /markdown/
