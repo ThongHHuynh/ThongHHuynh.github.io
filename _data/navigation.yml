@@ -9,7 +9,7 @@
 
 main:
   - title: "About me"
-    url: /About/
+    url: /about/
 
 
   - title: "Projects"
@@ -17,7 +17,7 @@ main:
 
 
   - title: "Research"
-    url: /Research/    
+    url: /research/    
 
     
   - title: "Portfolio"
