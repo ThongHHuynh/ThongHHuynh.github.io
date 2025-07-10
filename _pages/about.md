@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Thong Huynh Portfolio"
+title: "Thong Huynh's Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Hi, I'm Thong Huynh, a Mechatronics Engineer at Ontario Tech University. Check out some of my projects!!
+**About me**
+Hi, I'm Thong Huynh, a Mechatronics Engineer at Ontario Tech University. 
+My focus is in Robotics with ROS, CAD Designs.
+Check out some of my projects!!
 
 A data-driven personal website
 ======
