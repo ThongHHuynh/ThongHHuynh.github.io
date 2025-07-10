@@ -23,10 +23,10 @@ repository               : "thonghhuynh.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Thong Huynh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Robotics Engineer"
+  location         : "Oshawa, ON"
   employer         : "Ontario Tech Univeristy"
   uri              : # URL
   email            : "thong.huynh@ontariotechu.net" 
