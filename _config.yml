@@ -13,7 +13,7 @@ title                    : "Thong Huynh's Portfolio"
 title_separator          : "-"
 name                     : &name "Thong Huynh"
 description              : &description "personal description"
-url                      : https://thonghhuynh.github.io/
+url                      : https://thonghhuynh.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ThongHHuynh/ThongHHuynh.github.io"
 
