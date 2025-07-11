@@ -1,11 +1,7 @@
 ---
-title: "A model for bolts, nuts quality check"
-type: "project"
-collection: "project"
-permalink: /projects/project1
-date: 2012-03-01
-description: "This is an automation project using 3D printed conveyor, combined with a RealSense camera for flaw detection in bolts, nuts for QC
-skills: ROS, Yolov11, Segment Detection, Mask R-CNN
+title: "Project 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: projects
 ---
 
-![Image8](/images/IMG_8.jpg)
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
