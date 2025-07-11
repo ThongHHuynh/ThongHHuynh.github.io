@@ -5,8 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-**About me**
+  ---
 
 Hi, I'm Thong Huynh, a Mechatronics Engineer at Ontario Tech University. 
 
@@ -16,18 +15,16 @@ My focus is in Robotics with ROS, CAD Designs.
 
 Check out some of my projects!!
 
-[**A quality check for bolts, nuts**](/_talks/) 
+[**A quality check for bolts, nuts**](/_projects/Project1.md) 
 ---
 Tools: OpenCV, Yolo, Mask R-CNN
------------
 ![opencv](/images/IMG_4.jpg)
 
 
 
-6 DOF Robotic Arm
+[**6 DOF Robotic Arm**](/_projects/Project2.md)
 ---
 Tools: ROS1, Gazebo, SolidWorks
------------
 ![6dof](/images/IMG_1.png)
 
 
