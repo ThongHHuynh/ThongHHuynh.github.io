@@ -15,7 +15,7 @@ My focus is in Robotics with ROS, CAD Designs.
 
 Check out some of my projects!!
 
-[**A quality check for bolts, nuts**](/_projects/project1.md) 
+[**A quality check for bolts, nuts**](//projects/project1.md) 
 ---
 Tools: OpenCV, Yolo, Mask R-CNN, RoboFlow
 ![opencv](/images/IMG_4.jpg)
@@ -31,7 +31,7 @@ Tools: ROS1, Gazebo, SolidWorks
 Also, I've had a great summer working as a Research Assistant at MARS Lab too!
 ---
 Tools: Python, ROS, Simulation (Gazebo)
-[!lab](/images/Screenshot from 2025-07-11 16-15-52.png)
+![lab](/images/Screenshot from 2025-07-11 16-15-52.png)
 
 
 Site-wide configuration
