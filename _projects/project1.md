@@ -1,6 +1,6 @@
 ---
 title: "A counting and quality checking for bolts, nuts model"
-excerpt: "Short description of portfolio item numbe 1<br/><img src='/images/500x300.png'>"
+excerpt: "Use Mask R-CNN, RoboFlow and Yolo, it can count, detect and QC.<br/>![QC](/images/IMG_8.jpg)"
 collection: projects
 ---
 
