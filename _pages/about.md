@@ -18,7 +18,7 @@ Check out some of my projects!!
 
 A quality check for bolts, nuts []
 ==========
-[OpenCV](/images/IMG_4.jpg)
+![OpenCV](/images/IMG_4.jpg)
 
 
 
