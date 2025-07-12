@@ -12,4 +12,4 @@ It utilizes a custom-built 3D printed conveyor, integrated with an Intel RealSen
 The system detects, classifies, counts, and measures fasteners using a combination of YOLO-based object detection and Mask R-CNN for segmentation. The end goal is to accurately identify flaws, especially in threads and head geometry.
 
 I am currently improving the thread masking algorithm to enhance flaw detection accuracy on threaded surfaces.
-<img src="/images/IMG_1.jpg" alt="Bolt Eye system" width="500" height="300">
+<img src="/images/Simulation.png" alt="Bolt Eye system" width="500" height="300">
