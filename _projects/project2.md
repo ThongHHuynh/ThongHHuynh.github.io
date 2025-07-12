@@ -17,9 +17,17 @@ The full pipeline was built in **ROS1**, with Gazebo used for physics simulation
 This work laid the foundation for future hybrid navigation systems and autonomous control.
 
 Below are some visuals from the simulation:
+
 --------
+
 <img src="/images/Simulation_1.png" alt="Simulation1" width="500" height="300">
+
 --------
+
 <img src="/images/Simulation_4.png" alt="Simulation4" width="500" height="300">
+
 --------
+
 <img src="/images/Simulation_3.png" alt="Simulation3" width="500" height="300">
+
+--------
