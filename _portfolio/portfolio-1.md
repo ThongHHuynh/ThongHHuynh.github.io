@@ -1,10 +1,14 @@
 ---
 title: "DEMO Fest 2025"
-excerpt:|]
-Line following robot.<br/>
-- First Prize <br/><img src='/images/DEMO Fest.jpg' alt='dem1' width='500' height='300'/>
+excerpt: |
+  Line-following robot.<br/>
+  <ul>
+    <li>First Prize</li>
+  </ul>
+  <img src='/images/DEMO Fest.jpg' alt='dem1' width='500' height='300'/>
 collection: portfolio
 ---
+
 
 **DEMO Fest hosted by Ontario Tech University.**
 
