@@ -20,6 +20,10 @@ Below are snapshots from the simulation and model testing:
 
 ---
 
+<img src="/images/IMG_1.png" alt="Robotic Arm 1" width="500" height="300">
+
+---
+
 <img src="/images/Arm.jpg" alt="Robotic Arm 1" width="500" height="300">
 
 ---
