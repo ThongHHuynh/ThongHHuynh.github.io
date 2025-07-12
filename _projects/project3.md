@@ -8,10 +8,10 @@ collection: projects
 
 This project involves the development and simulation of a **6 Degrees of Freedom (6DOF) robotic arm**, focusing on joint kinematics, control, and motion planning.
 
-The robotic arm was modeled in **SolidWorks**, exported into **URDF**, and simulated in **Gazebo** under the **ROS1** ecosystem. Each joint was assigned accurate limits and control parameters, enabling realistic motion profiles.
+The robotic arm was modeled in **SolidWorks**, exported into **URDF**, and simulated in **RVIZ**. 
 
 Key goals of the project:
-- Implement joint-space control and forward kinematics
+- Self-taught about Inverse Kinematics and Forward Kinematics 
 - Simulate pick-and-place movements
 
 This work forms the basis for robotic manipulation tasks such as sorting, object grasping, and automated assembly.
