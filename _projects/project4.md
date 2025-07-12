@@ -2,7 +2,7 @@
 title: "Legged Multi-Modal Robot: Simulation and Research at MARS Lab"
 excerpt: |
   Tools: ROS1, PX4, Gazebo, SolidWorks<br/>
-  A hybrid robot that can walk and fly, simulated in Gazebo with ROS and PX4.<br/><img src='/images/Lab.jpegg' alt='Legged Robot' width='500' height='300'/>
+  A hybrid robot that can walk and fly, simulated in Gazebo with ROS and PX4.<br/><img src='/images/Lab.jpeg' alt='Legged Robot' width='500' height='300'/>
 collection: projects
 ---
 
