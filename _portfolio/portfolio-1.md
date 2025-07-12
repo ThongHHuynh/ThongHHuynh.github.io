@@ -5,9 +5,7 @@ excerpt: |
   <ul>
     <li>First Prize</li>
   </ul>
-  <div style="width:500px; height:300px; overflow:hidden;">
-    <img src='/images/DEMO Fest.jpg' alt='demo' style="width:600px; height:auto; margin-left:-50px;">
-  </div>
+  <img src="/images/DEMO Fest.jpg" alt="demo" width="500" height="300">
 collection: portfolio
 ---
 
