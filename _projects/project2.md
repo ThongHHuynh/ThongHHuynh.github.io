@@ -1,20 +1,19 @@
 ---
-title: "Simulation of a Multi-Modal Robot for Research at MARS Lab"
+title: "Simulation of a Multi-Modal Robot"
 excerpt: |
   Tools: PX4, MAVROS, ROS, Gazebo<br/>
-  A robot capable of both walking and flying simulated in Gazebo.<br/><img src='/images/Simulation.png' alt='Multi-modal' width='500' height='300'/>
+  A robot capable of both walking and flying is simulated in Gazebo.<br/><img src='/images/Simulation.png' alt='Multi-modal' width='500' height='300'/>
 collection: projects
 ---
 
-As a **Research Assistant** at **MARS Lab**, I worked on simulating a multi-modal robot capable of both terrestrial and aerial mobility.
+I worked on simulating a multi-modal robot capable of both terrestrial and aerial mobility.
 
 This robot integrates two modes:
-- **Walking**, using a legged mechanism for precise ground traversal.
-- **Flying**, using PX4 and MAVROS for stable drone dynamics in Gazebo.
+- **Walking**, using a turtlebot3 base for ground traversal.
+- **Flying**, using PX4 and MAVROS for stable drone control in Gazebo.
 
-The full pipeline was built in **ROS1**, with Gazebo used for physics simulation, joint control, and sensor integration. I explored stability and transition behaviors between modes, as well as multi-sensor fusion using IMU, lidar, and depth vision.
+This robot uses a D435 RealSense plugin for object detection using point cloud. It can fly up when there's an object in front of it.
 
-This work laid the foundation for future hybrid navigation systems and autonomous control.
 
 Below are some visuals from the simulation:
 
