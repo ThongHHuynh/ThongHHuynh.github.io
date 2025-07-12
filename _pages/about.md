@@ -23,21 +23,22 @@ Tools: OpenCV, Yolo, Mask R-CNN, RoboFlow
 
 
 
-6 DOF Robotic Arm
+[**6 DOF Robotic Arm**](/projects/project3)
 ---
 Tools: ROS1, Gazebo, SolidWorks
 
 <img src="/images/IMG_1.png" alt="simulation" width="500" height="300">
 
-Simulation of a multi-modal robot
+[**Simulation of a multi-modal robot**](/projects/project2)
 ---
 Tools: PX4, MAVROS, ROS
 
 <img src="/images/Simulation.png" alt="simulation" width="500" height="300">
 
 
-Also, I've had a great summer working as a Research Assistant at MARS Lab, too!
+[**Also, I've had a great summer working as a Research Assistant at MARS Lab, too!**](/projects/project4)
 ---
 Tools: Python, ROS, Simulation (Gazebo)
+
 <img src="/images/Lab.jpeg" alt="Lab" width="500" height="300">
 
