@@ -9,6 +9,8 @@ excerpt: |
 collection: portfolio
 ---
 
+Me at the competition :)
+
 <img src='/images/MAKEX1.JPG' alt='makex1' width='500' height='300'/>
 
 ---
