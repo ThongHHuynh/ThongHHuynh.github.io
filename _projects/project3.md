@@ -2,7 +2,7 @@
 title: "6 DOF Robotic Arm: Simulation and Control in ROS"
 excerpt: |
   Tools: ROS1, Gazebo, SolidWorks<br/>
-  A 6-joint robotic arm simulated with full kinematics and control.<br/><img src='/images/IMG_1.png' alt='Robotic Arm' width='500' height='300'/>
+  A 6-joint robotic arm simulated with full kinematics and control.<br/><img src='/images/6 dof 1.png' alt='Robotic Arm' width='500' height='300'/>
 collection: projects
 ---
 
@@ -20,4 +20,8 @@ Below are snapshots from the simulation and model testing:
 
 ---
 
-<img src="/images/IMG_1.png" alt="Robotic Arm 1" width="500" height="300">
+<img src="/images/Arm.jpg" alt="Robotic Arm 1" width="500" height="300">
+
+---
+
+<img src="/images/arm1.jpg" alt="Robotic Arm 2" width="500" height="300">
