@@ -1,9 +1,15 @@
 ---
-title: "A counting and quality checking for bolts, nuts model"
+title: "Bolt Eye: A Counting and Quality Checking System for Bolts and Nuts"
 excerpt: |
-  Tools: Mask R-CNN, RoboFlow, Yolo, OpenCV, and RealSense Camera<br/>
-  It can detect, categorize, coun,t and quality check.<br/><img src='/images/IMG_8.jpg' alt='QC'/>
+  Tools: Mask R-CNN, RoboFlow, YOLO, OpenCV, and RealSense Camera<br/>
+  It can detect, categorize, count, and perform quality checks.<br/><img src='/images/IMG_8.jpg' alt='QC' width='500' height='300'/>
 collection: projects
 ---
-A counting and quality checking for bolts, nuts 
-I used a 3D printed conveyor, combined with a RealSense D455i and a MIPI camera to detect nuts, bolts, and measure their size in real time.
+
+**Bolt Eye** is a modular, automated system designed for real-time detection and quality control of bolts and nuts.  
+It utilizes a custom-built 3D printed conveyor, integrated with an Intel RealSense D455i and a MIPI camera for high-precision visual inspection.
+
+The system detects, classifies, counts, and measures fasteners using a combination of YOLO-based object detection and Mask R-CNN for segmentation. The end goal is to accurately identify flaws, especially in threads and head geometry.
+
+I am currently improving the thread masking algorithm to enhance flaw detection accuracy on threaded surfaces.
+<img src="/images/IMG_1.jpg" alt="Bolt Eye system" width="500" height="300">
