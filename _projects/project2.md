@@ -20,6 +20,6 @@ Below are some visuals from the simulation:
 --------
 <img src="/images/Simulation_1.png" alt="Simulation1" width="500" height="300">
 --------
-<img src="/images/Simulation_2.png" alt="Simulation2" width="500" height="300">
+<img src="/images/Simulation_4.png" alt="Simulation4" width="500" height="300">
 --------
-<img src="/images/Simulation_3.png" alt="Simulation_3" width="500" height="300">
+<img src="/images/Simulation_3.png" alt="Simulation3" width="500" height="300">
