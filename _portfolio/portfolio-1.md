@@ -1,6 +1,8 @@
 ---
 title: "DEMO Fest 2025"
-excerpt: Line following robot.<br/><img src='/images/DEMO Fest.jpg' alt='dem1' width='500' height='300'/>
+excerpt:|]
+Line following robot.<br/>
+- First Prize <br/><img src='/images/DEMO Fest.jpg' alt='dem1' width='500' height='300'/>
 collection: portfolio
 ---
 
