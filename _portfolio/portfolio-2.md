@@ -9,7 +9,7 @@ excerpt: |
   <img src='/images/IYRC1.JPG' alt='IYRC1' width='500' height='300'/>
 collection: projects
 ---
-Competed in the International Youth Robot Competition 2019 and proudly achieveda  gold medal for Volleyball and Line Following Robots
+Competed in the International Youth Robot Competition 2019 and proudly achieved a  gold medal for Volleyball and Line Following Robots
 The robot can finish a 7m track in under 15s
 
 
