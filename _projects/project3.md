@@ -1,13 +1,23 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "6 DOF Robotic Arm: Simulation and Control in ROS"
+excerpt: |
+  Tools: ROS1, Gazebo, SolidWorks<br/>
+  A 6-joint robotic arm simulated with full kinematics and control.<br/><img src='/images/IMG_1.png' alt='Robotic Arm' width='500' height='300'/>
 collection: projects
-type: "projects"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
 ---
 
-[More information here](http://example2.com)
+This project involves the development and simulation of a **6 Degrees of Freedom (6DOF) robotic arm**, focusing on joint kinematics, control, and motion planning.
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+The robotic arm was modeled in **SolidWorks**, exported into **URDF**, and simulated in **Gazebo** under the **ROS1** ecosystem. Each joint was assigned accurate limits and control parameters, enabling realistic motion profiles.
+
+Key goals of the project:
+- Implement joint-space control and forward kinematics
+- Simulate pick-and-place movements
+
+This work forms the basis for robotic manipulation tasks such as sorting, object grasping, and automated assembly.
+
+Below are snapshots from the simulation and model testing:
+
+---
+
+<img src="/images/IMG_1.png" alt="Robotic Arm 1" width="500" height="300">
