@@ -14,49 +14,31 @@ Education
 * B.S. in Mechatronics Engineering, Ontario Tech University, 2024-2028
     CGPA: 4.25/4.3
 
-Work experience
+ExperienceS
 ======
 * Summer 2025: Research Assistant @ MARS Lab
   * Ontario Tech University
-  * Duties: Simulation 
+  * Duties: Simulation and integrating hardware to the robot
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Mechanical Design Intern @ Quoc Truong Limited
+  * Duties: Designing bots, nuts for manufacturing
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall - Winter 2025: Mechanical Team Member @ RoboMaster
+  * RoboMaster 
+  * Duties: Assembly, designing the robot for 2025 RoboMaster NA
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* CAD Designs: NX, SolidWorks (Certified Professional), Fusion 360
+* ROS - Robot Operating System
+* Addictive manufacturing: FDM, Resin 3D printing
+* Programming: C++, Python
 
-Publications
+Award
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* STAR Award - Ontario Tech University
+* Merit Award - Ontario Tech University
+* International Leader Award - University of Alberta
+* President List (CGPA 4.25/4.3)
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
