@@ -4,7 +4,7 @@ excerpt: Line following robot.<br/><img src='/images/DEMO Fest.jpg' alt='dem1' w
 collection: portfolio
 ---
 
-[**DEMO Fest hosted by Ontario Tech University.**]
+**DEMO Fest hosted by Ontario Tech University.**
 
 Our team proudly secured First Prize with a fully press-fit line-following robot.
 The robot was built using an Arduino and IR sensors for navigation.
