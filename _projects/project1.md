@@ -14,11 +14,11 @@ The system detects, classifies, counts, and measures fasteners using a combinati
 I am currently improving the thread masking algorithm to enhance flaw detection accuracy on threaded surfaces.
 
 Below are some images while testing and implementing
---------
+---
 <img src="/images/Bolt_1.jpg" alt="Bolt1" width="500" height="300">
---------
+---
 <img src="/images/Bolt_2.jpg" alt="Bolt2" width="500" height="300">
---------
+---
 <img src="/images/Bolt_3.jpg" alt="Bolt3" width="500" height="300">
---------
+---
 <img src="/images/Bolt_4.jpg" alt="Bolt4" width="500" height="300">
