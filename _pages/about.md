@@ -27,7 +27,7 @@ Tools: OpenCV, Yolo, Mask R-CNN, RoboFlow
 ---
 Tools: ROS1, Gazebo, SolidWorks
 
-<img src="/images/IMG_1.png" alt="simulation" width="500" height="300">
+<img src="/images/arm1.jpg" alt="simulation" width="500" height="300">
 
 [**Simulation of a multi-modal robot**](/projects/project2)
 ---
