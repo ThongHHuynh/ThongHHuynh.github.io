@@ -21,4 +21,4 @@ Below are some photos showcasing the robot in action.
 
 ---
 
-<img src="/images/DEMO1.JPG" alt="DEMO1" width="500" height="300">
+<img src="/images/DEMO1.jpg" alt="DEMO1" width="500" height="300">
