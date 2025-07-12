@@ -15,9 +15,10 @@ My focus is in Robotics with ROS, CAD Designs.
 
 Check out some of my projects!!
 
-[**A quality check for bolts, nuts**](//projects/project1.md) 
+[**A quality check for bolts, nuts**](/projects/project1) 
 ---
 Tools: OpenCV, Yolo, Mask R-CNN, RoboFlow
+
 <img src="/images/Bolt_3.jpg" alt="Bolt" width="500" height="300">
 
 
