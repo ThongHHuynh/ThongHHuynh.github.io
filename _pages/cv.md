@@ -14,13 +14,14 @@ Education
 * B.S. in Mechatronics Engineering, Ontario Tech University, 2024-2028
     CGPA: 4.25/4.3
 
-ExperienceS
+Experiences
 ======
 * Summer 2025: Research Assistant @ MARS Lab
   * Ontario Tech University
   * Duties: Simulation and integrating hardware to the robot
 
 * Fall 2024: Mechanical Design Intern @ Quoc Truong Limited
+  * Quoc Truong Limited
   * Duties: Designing bots, nuts for manufacturing
 
 * Fall - Winter 2025: Mechanical Team Member @ RoboMaster
