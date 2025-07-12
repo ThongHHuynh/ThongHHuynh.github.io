@@ -28,8 +28,8 @@ author:
   bio              : "Mechatronics Engineering | Aspiring Robotics Engineer"
   location         : "Oshawa, ON"
   employer         : "Ontario Tech Univeristy"
-  uri              : # URL
-  mail            : "thong.huynh@ontariotechu.net" 
+  URI              : "mailto:thong.huynh@ontariotechu.net"
+  email            : "thong.huynh@ontariotechu.net" 
 
   # Academic websites
   academia         : # URL
