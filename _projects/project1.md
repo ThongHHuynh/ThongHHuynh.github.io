@@ -2,7 +2,7 @@
 title: "Bolt Eye: A Counting and Quality Checking System for Bolts and Nuts"
 excerpt: |
   Tools: Mask R-CNN, RoboFlow, YOLO, OpenCV, and RealSense Camera<br/>
-  It can detect, categorize, count, and perform quality checks.<br/><img src='/images/IMG_8.jpg' alt='QC' width='500' height='300'/>
+  It can detect, categorize, count, and perform quality checks.<br/><img src='/images/Bolt_1.jpg' alt='QC' width='500' height='300'/>
 collection: projects
 ---
 
@@ -15,7 +15,10 @@ I am currently improving the thread masking algorithm to enhance flaw detection 
 
 Below are some images while testing and implementing
 --------
-<img src="/images/Bolt_1.png" alt="Bolt Eye system" width="500" height="300">
-<img src="/images/Bolt_2.png" alt="Bolt Eye system" width="500" height="300">
-<img src="/images/Bolt_3.png" alt="Bolt Eye system" width="500" height="300">
-<img src="/images/Bolt_4.png" alt="Bolt Eye system" width="500" height="300">
+<img src="/images/Bolt_1.jpg" alt="Bolt Eye system" width="500" height="300">
+---
+<img src="/images/Bolt_2.jpg" alt="Bolt Eye system" width="500" height="300">
+---
+<img src="/images/Bolt_3.jpg" alt="Bolt Eye system" width="500" height="300">
+---
+<img src="/images/Bolt_4.jpg" alt="Bolt Eye system" width="500" height="300">
