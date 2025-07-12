@@ -2,9 +2,6 @@
 title: "FPV Drone"
 excerpt: |
   Racing FPV Drone.<br/>
-  <ul>
-    <li>Innovative Design</li>
-  </ul>
   <img src='/images/Drone.jpg' alt='drone1' style="max-width: 500px; height: auto;">
 collection: portfolio
 ---
