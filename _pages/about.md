@@ -11,13 +11,13 @@ Hi, I'm Thong Huynh, a Mechatronics Engineer at Ontario Tech University.
 
 I love building robots.
 
-My focus is in Robotics with ROS, CAD Designs.
+My focus is on Robotics with ROS and CAD Designs.
 
 Check out some of my projects!!
 
-[**A quality check for bolts, nuts**](/projects/project1) 
+[**A computer vision system to detect bolts and nuts flaws**](/projects/project1) 
 ---
-Tools: OpenCV, Yolo, Mask R-CNN, RoboFlow
+Tools: OpenCV, YoloV11, Mask R-CNN, RoboFlow
 
 <img src="/images/Bolt_3.jpg" alt="Bolt" width="500" height="300">
 
@@ -25,7 +25,7 @@ Tools: OpenCV, Yolo, Mask R-CNN, RoboFlow
 
 [**6 DOF Robotic Arm**](/projects/project3)
 ---
-Tools: ROS1, Gazebo, SolidWorks
+Tools: ROS1, Gazebo, SolidWorks, Python
 
 <img src="/images/arm1.jpg" alt="simulation" width="500" height="300">
 
