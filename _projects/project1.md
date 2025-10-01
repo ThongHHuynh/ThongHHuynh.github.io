@@ -1,5 +1,5 @@
 ---
-title: "Bolt Eye: A Counting and Quality Checking System for Bolts and Nuts"
+title: "Bolt Eye: A Counting and Quality Checking System for Screws, Bolts and Nuts"
 excerpt: |
   Tools: Mask R-CNN, RoboFlow, YOLO, OpenCV, and RealSense Camera<br/>
   It can detect, categorize, count, and perform quality checks.<br/><img src='/images/Bolt_1.jpg' alt='QC' width='500' height='300'/>
